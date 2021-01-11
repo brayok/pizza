@@ -1,0 +1,13 @@
+.jumbotron{
+    background-image: url(../images/h1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10%;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    margin: 50px;
+}
