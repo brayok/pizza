@@ -31,3 +31,12 @@ h1{
     color: whitesmoke;
     font-family: fantasy;
 }
+.p{
+    background-color: whitesmoke;
+    font-family: cursive;
+}
+
+.copyright{
+    text-align: center;
+    background-color: darkgray;
+}
