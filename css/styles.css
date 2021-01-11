@@ -11,3 +11,12 @@
     font-weight: bold;
     margin: 50px;
 }
+.header{
+    padding-top: 5%;
+}
+.body{
+    background-image: url(../images/pizza.jpeg);
+    background-repeat: no-repeat;
+    float: left;
+    overflow-x: hidden;
+}
