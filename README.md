@@ -3,7 +3,7 @@ This is a project on a pizza eatery website where customers can place orders and
 
 ## Author
 
-[kiiru david](https://github.com/brayok/pizza.git)
+[Brian Munyinyi Kamau](https://github.com/brayok/pizza.git)
 
 ## Description
 
